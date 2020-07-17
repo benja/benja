@@ -7,14 +7,14 @@ Currently working full-time as a Frontend Engineer and Designer @ <a href="https
 ~ I wish I did more open source work, and I'll try my best to get more into it in the near future.
 
 ##### Personal projects I'm currently working on and maintaining
-* <a href="https://gamelib.app/">Gamelib</a>
+* <a href="https://gamelib.app/" target="_blank">Gamelib</a>
 
 
 ##### Where you'll find me
-* 📹 Uploading videos on <a href="https://youtube.com/benjaminakar/">YouTube</a>
-* 🐦 Tweeting random stuff on <a href="https://twitter.com/benjaminakar/">Twitter</a>
-* 📸 Posting pictures on <a href="https://instagram.com/benjaminakar">Instagram</a>
-* 💬 Chatting on <a href="https://discord.gg/2cJk79k">Discord</a>
-* 🤵 Because "you have to" <a href="https://www.linkedin.com/in/benjaminakar/">LinkedIn</a>
+* 📹 Uploading videos on <a href="https://youtube.com/benjaminakar/" target="_blank">YouTube</a>
+* 🐦 Tweeting random stuff on <a href="https://twitter.com/benjaminakar/" target="_blank">Twitter</a>
+* 📸 Posting pictures on <a href="https://instagram.com/benjaminakar" target="_blank">Instagram</a>
+* 💬 Chatting on <a href="https://discord.gg/2cJk79k" target="_blank">Discord</a>
+* 🤵 Because "you have to" <a href="https://www.linkedin.com/in/benjaminakar/" target="_blank">LinkedIn</a>
 
 ###### Other than that, you can check out my pretty outdated <a href="https://benjaminakar.com/">portfolio</a>.

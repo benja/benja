@@ -1,6 +1,6 @@
 ### Hi, I'm Benja 👋
 
-I'm a 19 year old guy from 🇳🇴 Oslo, Norway striving to innovate great solutions to modern day problems. I specialize within digital design and development, but any activity requiring problem solving and creative thinking is where you will find me.
+I'm a 19-year-old guy from 🇳🇴 Oslo, Norway striving to innovate great solutions to modern-day problems. I specialize in digital design and development, but any activity requiring problem-solving and creative thinking is where you will find me.
 
 Currently working full-time as a Frontend Engineer and Designer @ <a href="https://notify.me/">Notify Technology, Inc.</a>, while maintaining previous clients's (startups and established companies) websites through my sole proprietorship and working on personal projects in my spare time.
 

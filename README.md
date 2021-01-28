@@ -7,7 +7,7 @@ Currently contracted as a Platform Engineer & Designer @ <a href="https://edge.g
 ~ I wish I did more open source work, and I'll try my best to get more into it in the near future.
 
 ##### Personal projects I'm currently working on and maintaining
-* <a href="https://gamelib.app/">Gamelib</a> (Working on V2 ~ ground-up rewrite of entire platform)
+* <a href="https://gamelib.app/">Gamelib</a>
 
 ##### Where you'll find me
 * 📹 Uploading videos on <a href="https://youtube.com/benjaminakar/">YouTube</a>

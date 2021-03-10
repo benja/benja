@@ -1,6 +1,6 @@
 ### Hi, I'm Benja 👋
 
-I'm a 19 year old guy from Oslo, Norway striving to innovate great solutions to modern-day problems. I specialize in digital design and development, but any activity requiring problem solving and creative thinking is where you will find me.
+I'm a 20 year old guy from Oslo, Norway striving to innovate great solutions to modern-day problems. I specialize in digital design and development, but any activity requiring problem solving and creative thinking is where you will find me.
 
 Currently contracted as a Platform Engineer & Designer @ <a href="https://edge.gg/">Edge</a>, while maintaining previous client's (startups and established companies) websites through my sole proprietorship and working on personal projects in my spare time.
 

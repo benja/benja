@@ -2,7 +2,7 @@
 
 I'm a 20 year old guy from Oslo, Norway striving to innovate great solutions to modern-day problems. I specialize in digital design and development, but any activity requiring problem solving and creative thinking is where you will find me.
 
-Currently contracted as a Platform Engineer & Designer @ <a href="https://edge.gg/">Edge</a>, while maintaining previous client's (startups and established companies) websites through my sole proprietorship and working on personal projects in my spare time.
+Currently working full-time as a Platform Engineer & Designer @ <a href="https://edge.gg/">Edge</a>, while maintaining previous client's (startups and established companies) websites through my sole proprietorship and working on personal projects in my spare time.
 
 ~ I wish I did more open source work, and I'll try my best to get more into it in the near future.
 

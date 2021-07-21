@@ -4,8 +4,6 @@ I'm a 20 year old guy from Oslo, Norway striving to innovate great solutions to 
 
 Currently working full-time as a Software Engineer @ <a href="https://finn.no/">Finn</a>, while maintaining previous client's (startups and established companies) websites through my sole proprietorship and working on personal projects in my spare time.
 
-~ I wish I did more open source work, and I'll try my best to get more into it in the near future.
-
 ##### Personal projects I'm currently working on and maintaining
 * <a href="https://gamelib.app/">Gamelib</a>
 

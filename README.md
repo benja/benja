@@ -1,6 +1,6 @@
 ### Hi, I'm Benja 👋
 
-I'm a 20 year old guy from Oslo, Norway striving to innovate great solutions to modern-day problems. I specialize in digital design and development, but any activity requiring problem solving and creative thinking is where you will find me.
+I'm a 21 year old guy from Oslo, Norway striving to innovate great solutions to modern-day problems. I specialize in digital design and development, but any activity requiring problem solving and creative thinking is where you will find me.
 
 Currently working full-time as a Software Engineer @ <a href="https://finn.no/">Finn</a>, while maintaining previous client's (startups and established companies) websites through my sole proprietorship and working on personal projects in my spare time.
 

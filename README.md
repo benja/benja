@@ -13,5 +13,3 @@ Currently working full-time as a Software Engineer @ <a href="https://finn.no/">
 * 🐦 Tweeting random stuff on <a href="https://twitter.com/benjaminakar/">Twitter</a>
 * 📸 Posting pictures on <a href="https://instagram.com/benjaminakar">Instagram</a>
 * 🤵 Because "you have to" <a href="https://www.linkedin.com/in/benjaminakar/">LinkedIn</a>
-
-###### Other than that, you can check out my pretty outdated <a href="https://benjaminakar.com/">portfolio</a>.

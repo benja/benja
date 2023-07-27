@@ -2,9 +2,9 @@
 
 Self-taught developer and designer from Oslo, Norway striving to innovate great solutions to modern-day problems. I specialize in digital design and development, but any activity requiring problem-solving and creative thinking is where you will find me.
 
-Currently working full-time as a Software Engineer @ <a href="https://sanity.io/">Sanity.io</a>, and crafting digital experiences at <a href="https://vznaries.com/">Vznaries</a> in my spare time.
+Currenlty starting my own thing @ <a href="https://braum.ai/">Braum</a>.
 
-##### Personal projects I'm currently working on and maintaining
+##### Personal projects
 * <a href="https://maskbunny.com/">Maskbunny</a>
 * <a href="https://gamelib.app/">Gamelib</a>
 

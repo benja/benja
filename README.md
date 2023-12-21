@@ -1,12 +1,5 @@
-### Hi, I'm Benja 👋
+design-minded engineer
 
-Self-taught developer and designer from Oslo, Norway striving to innovate great solutions to modern-day problems. I specialize in digital design and development, but any activity requiring problem-solving and creative thinking is where you will find me.
-
-Currently starting my own thing @ <a href="https://braum.ai/">Braum</a>.
-
-##### Personal projects
-* <a href="https://maskbunny.com/">Maskbunny</a>
-* <a href="https://gamelib.app/">Gamelib</a>
-
-##### Where you'll find me
-* <a href="https://www.linkedin.com/in/benjaminakar/">LinkedIn</a>
+projects
+- <a href="https://maskbunny.com/">Maskbunny</a>
+- <a href="https://gamelib.app/">Gamelib</a>
